@@ -23,7 +23,7 @@ const areefaSamar = {
     "AI Resume & ATS Evaluator"
   ],
   status: "Actively building, learning, and shipping",
-  openTo: ["Web Development Opportunities",  "Software Engineering Roles", "Hackathons", "Collaborations", "Tech Community Initiatives"]
+  openTo: ["Web Development Opportunities", "Software Engineering Roles", "Hackathons", "Collaborations", "Tech Community Initiatives"]
 };
 ```
 
