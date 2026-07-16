@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=474787&height=200&section=header&text=Areefa%20Samar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=CS%20%26%20IT%20Student%20%7C%20Full-Stack%20Builder&descAlignY=55&descSize=20" width="100%" />
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0iIzQ3NDc4NyIvPgogIDx0ZXh0IHg9IjQ1MCIgeT0iMTAwIiBmb250LWZhbWlseT0iVmVyZGFuYSwgR2VuZXZhLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjQ4IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2ZmZmZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QXJlZWZhIFNhbWFyPC90ZXh0PgogIDx0ZXh0IHg9IjQ1MCIgeT0iMTQwIiBmb250LWZhbWlseT0iVmVyZGFuYSwgR2VuZXZhLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmaWxsPSIjZTJkZWY3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5DUyAmYW1wOyBJVCBTdHVkZW50IHwgRnVsbC1TdGFjayBCdWlsZGVyPC90ZXh0Pgo8L3N2Zz4K" width="100%" />
 
 <br/>
 
@@ -22,6 +22,7 @@ const areefaSamar = {
     "VibeCheck - Neobrutalist Streetwear E-Commerce Experience",
     "AI Resume & ATS Evaluator"
   ],
+  certifications: ["Aspire Leaders Program"],
   status: "Actively building, learning, and shipping",
   openTo: ["Software Engineering Roles", "Hackathons", "Collaborations", "Tech Community Initiatives"]
 };
@@ -121,4 +122,4 @@ An AI-powered Applicant Tracking System (ATS) Evaluator that helps candidates op
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:474787&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMTAwIiBmaWxsPSIjNDc0Nzg3Ii8+Cjwvc3ZnPgo=" width="100%" />
