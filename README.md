@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:474787,100:1a1a1a&height=200&section=header&text=Areefa%20Samar&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20%26%20Information%20Technology%20Student&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=474787&height=190&section=header&text=Areefa%20Samar&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=CS%20%26%20IT%20Student%20%7C%20Full-Stack%20Builder&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
+
+<br/>
 
 <a href="https://github.com/areefasamar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=474787&center=true&vCenter=true&width=600&lines=CS+%26+IT+Student+at+NED+University;Building+with+C%2B%2B%2C+Python%2C+JavaScript+%26+TypeScript;Exploring+AI-integrated+Web+Apps;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=474787&center=true&vCenter=true&width=800&lines=CS+%26+IT+Student+at+NED+University;Building+with+C%2B%2B%2C+Python%2C+JavaScript+%26+TypeScript;Exploring+AI-integrated+Web+Apps;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
 </a>
 
 </div>
