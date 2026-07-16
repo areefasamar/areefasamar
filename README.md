@@ -1,19 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:218c74,100:1a1a1a&height=200&section=header&text=Areefa%20Samar&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20%26%20Information%20Technology%20Student&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:474787,100:1a1a1a&height=200&section=header&text=Areefa%20Samar&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20%26%20Information%20Technology%20Student&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://github.com/areefasamar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=218C74&center=true&vCenter=true&width=600&lines=CS+%26+IT+Student+at+NED+University;Building+with+C%2B%2B%2C+Python%2C+JavaScript+%26+TypeScript;Exploring+AI-integrated+Web+Apps;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=474787&center=true&vCenter=true&width=600&lines=CS+%26+IT+Student+at+NED+University;Building+with+C%2B%2B%2C+Python%2C+JavaScript+%26+TypeScript;Exploring+AI-integrated+Web+Apps;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-218c74?style=for-the-badge&logo=briefcase&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=areefasamar&label=Profile%20Views&color=218c74&style=flat" />
-<img src="https://img.shields.io/github/followers/areefasamar?label=Followers&style=flat&color=218c74" />
 
 </div>
 
@@ -87,12 +78,12 @@ An AI-powered Applicant Tracking System (ATS) Evaluator that helps candidates op
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=areefasamar&show_icons=true&theme=nord&border_color=218c74&title_color=218c74&icon_color=218c74&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areefasamar&layout=compact&theme=nord&border_color=218c74&title_color=218c74&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=areefasamar&show_icons=true&theme=nord&border_color=474787&title_color=474787&icon_color=474787&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areefasamar&layout=compact&theme=nord&border_color=474787&title_color=474787&text_color=c9d1d9&bg_color=0d1117" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=areefasamar&theme=nord&border=218c74&ring=218c74&fire=218c74&currStreakLabel=218c74&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=areefasamar&theme=nord&border=474787&ring=474787&fire=474787&currStreakLabel=474787&background=0d1117" />
 
 <br/>
 
@@ -104,7 +95,7 @@ An AI-powered Applicant Tracking System (ATS) Evaluator that helps candidates op
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=areefasamar&theme=react-dark&color=218c74&line=218c74&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=areefasamar&theme=react-dark&color=474787&line=474787&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -115,18 +106,18 @@ An AI-powered Applicant Tracking System (ATS) Evaluator that helps candidates op
 <div align="center">
 
 <a href="https://www.linkedin.com/in/areefa-samar">
-  <img src="https://img.shields.io/badge/LinkedIn-218c74?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-474787?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/areeefahh_/">
-  <img src="https://img.shields.io/badge/Instagram-218c74?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-474787?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/areefa.samar">
-  <img src="https://img.shields.io/badge/Facebook-218c74?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-474787?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="mailto:samar4802098@cloud.neduet.edu.pk">
-  <img src="https://img.shields.io/badge/Email-218c74?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-474787?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:218c74&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:474787&height=120&section=footer&animation=twinkling" width="100%" />
