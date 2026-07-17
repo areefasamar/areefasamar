@@ -23,7 +23,7 @@ const areefaSamar = {
     "AI Resume & ATS Evaluator"
   ],
   status: "Actively building, learning, and shipping",
-  openTo: ["Web Development Opportunities", "Software Engineering Roles", "Hackathons", "Collaborations", "Tech Community Initiatives"]
+  openTo: ["Web Development  Opportunities",  "Software Engineering Roles", "Hackathons", "Collaborations", "Tech Community Initiatives"]
 };
 ```
 
@@ -118,6 +118,9 @@ An AI-powered Applicant Tracking System (ATS) Evaluator that helps candidates op
 </a>
 <a href="https://www.facebook.com/areefa.samar">
   <img src="https://img.shields.io/badge/Facebook-D6A2E8?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@AreefaSamar">
+  <img src="https://img.shields.io/badge/YouTube-D6A2E8?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="mailto:samar4802098@cloud.neduet.edu.pk">
   <img src="https://img.shields.io/badge/Email-D6A2E8?style=for-the-badge&logo=gmail&logoColor=white" />
