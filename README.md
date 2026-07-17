@@ -83,16 +83,7 @@ An AI-powered Applicant Tracking System (ATS) Evaluator that helps candidates op
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=areefasamar&show_icons=true&theme=nord&border_color=D6A2E8&title_color=D6A2E8&icon_color=D6A2E8&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areefasamar&layout=compact&theme=nord&border_color=D6A2E8&title_color=D6A2E8&text_color=c9d1d9&bg_color=0d1117" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=areefasamar&theme=nord&border=D6A2E8&ring=D6A2E8&fire=D6A2E8&currStreakLabel=D6A2E8&background=0d1117" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=areefasamar&theme=nord&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
