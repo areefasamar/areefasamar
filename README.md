@@ -111,7 +111,7 @@ An AI-powered Applicant Tracking System (ATS) Evaluator that helps candidates op
 <div align="center">
 
 <a href="https://www.linkedin.com/in/areefa-samar">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-D6A2E8?style=for-the-badge&logo=linkedin-white&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/areeefahh_/">
   <img src="https://img.shields.io/badge/Instagram-D6A2E8?style=for-the-badge&logo=instagram&logoColor=white" />
