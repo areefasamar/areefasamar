@@ -75,7 +75,7 @@ An AI-powered Applicant Tracking System (ATS) Evaluator that helps candidates op
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git" />
+<img src="https://skillicons.dev/icons?i=vscode,github" />
 
 <br/>
 
